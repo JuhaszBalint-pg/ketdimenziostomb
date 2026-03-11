@@ -12,3 +12,6 @@ for i in range(sor):
     tomb.append(sor_tomb)
 
 print(tomb)
+
+for i in range(0, len(tomb)):
+    print(tomb[i])
